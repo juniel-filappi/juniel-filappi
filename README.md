@@ -7,25 +7,25 @@
 <div style="
 display: flex;
 ">
-	<img src="./laravel.svg" width="20" style="
+	<img src="./laravel.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		background-color: #FF2D20;
 		border-radius: 4px;
 	"/>
-	<img src="./react.svg" width="20" style="
+	<img src="./react.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		background-color: #61DAFB;
 		border-radius: 4px;
 	"/>
-	<img src="./vue-dot-js.svg" width="20" style="
+	<img src="./vue-dot-js.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		background-color: #4FC08D;
 		border-radius: 4px;
 	"/>
-	<img src="./bootstrap.svg" width="20" style="
+	<img src="./bootstrap.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		background-color: #563D7C;
