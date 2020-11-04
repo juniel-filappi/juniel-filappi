@@ -2,6 +2,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Juninho-dev&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
-### 🔝 TIme
+### 🔝 Repo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juninho-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho-dev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
