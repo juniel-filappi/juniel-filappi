@@ -12,17 +12,22 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
+	<img src="./html5.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
 	<img src="./javascript.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-	<img src="./yarn.svg" width="50" style="
+	<img src="./css3.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-	<img src="./css3.svg" width="50" style="
+	<img src="./yarn.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
