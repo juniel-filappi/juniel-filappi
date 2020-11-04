@@ -13,6 +13,12 @@ display: flex;
 		background-color: #FF2D20;
 		border-radius: 4px;
 	"/>
+	<img src="./javascript.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		background-color: #F7DF1E;
+		border-radius: 4px;
+	"/>
 	<img src="./yarn.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
