@@ -4,3 +4,4 @@
 
 ### 🔝 Technologies
 
+<img src="./laravel.svg"/>
