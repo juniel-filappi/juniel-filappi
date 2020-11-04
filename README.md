@@ -10,25 +10,21 @@ display: flex;
 	<img src="./laravel.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
-		background-color: #FF2D20;
 		border-radius: 4px;
 	"/>
 	<img src="./javascript.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
-		background-color: #F7DF1E;
 		border-radius: 4px;
 	"/>
 	<img src="./yarn.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
-		background-color: #2C8EBB;
 		border-radius: 4px;
 	"/>
 	<img src="./css3.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
-		background-color: #1572B6;
 		border-radius: 4px;
 	"/>
 	<img src="./sass.svg" width="50" style="
