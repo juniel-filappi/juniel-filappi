@@ -76,6 +76,30 @@ display: flex;
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
-		color: #4169E1;
+	"/>
+	<img src="./postman.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./amazonaws.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./apache.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./electron.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./expo.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
 	"/>
 </div>
