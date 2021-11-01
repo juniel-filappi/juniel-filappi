@@ -76,5 +76,6 @@ display: flex;
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
+		color: #4169E1;
 	"/>
 </div>
