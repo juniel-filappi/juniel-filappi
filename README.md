@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Juninho-dev&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninho-dev&layout=compact)
+
 ### 🔝 Technologies
 
 <div style="
