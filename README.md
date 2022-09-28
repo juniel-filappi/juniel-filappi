@@ -1,12 +1,16 @@
 ### 🚀 Some Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juninho-dev&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Juninho-dev&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninho-dev&layout=compact)
+<div align="center">
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninho-dev&layout=compact)
+</div>
 
 ### 🔝 Technologies
 
-<div style="
+<div align="center" style="
 display: flex;
 ">
 	<img src="./laravel.svg" width="50" style="
