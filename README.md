@@ -1,11 +1,10 @@
 ### 🚀 Some Status
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Juninho-dev&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
-</div>
-
-<div align="center">
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninho-dev&layout=compact)
+  <a href="https://github.com/juninho-dev">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juninho-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninho-dev&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 ### 🔝 Technologies
